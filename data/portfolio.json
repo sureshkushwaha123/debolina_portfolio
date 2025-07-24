@@ -1,0 +1,80 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Ethereal Couture Collection",
+      "category": "couture",
+      "image": "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "description": "A high-fashion collection inspired by celestial movements and organic forms.",
+      "tags": ["Hand-embroidered", "Silk", "Contemporary"]
+    },
+    {
+      "id": 2,
+      "title": "Urban Nomad Series",
+      "category": "streetwear",
+      "image": "https://images.pexels.com/photos/1813947/pexels-photo-1813947.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "description": "Street-ready designs that blend comfort with cutting-edge aesthetics.",
+      "tags": ["Sustainable", "Unisex", "Urban"]
+    },
+    {
+      "id": 3,
+      "title": "Artisan Accessories",
+      "category": "accessories",
+      "image": "https://images.pexels.com/photos/1183085/pexels-photo-1183085.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "description": "Handcrafted accessories that complement contemporary fashion.",
+      "tags": ["Handmade", "Leather", "Minimalist"]
+    },
+    {
+      "id": 4,
+      "title": "Neo-Traditional Fusion",
+      "category": "couture",
+      "image": "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "description": "Modern interpretation of traditional Indian textiles and silhouettes.",
+      "tags": ["Traditional", "Modern", "Cultural"]
+    },
+    {
+      "id": 5,
+      "title": "Minimalist Streetwear",
+      "category": "streetwear",
+      "image": "https://images.pexels.com/photos/1813947/pexels-photo-1813947.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "description": "Clean lines and understated elegance for everyday wear.",
+      "tags": ["Minimalist", "Comfort", "Versatile"]
+    },
+    {
+      "id": 6,
+      "title": "Statement Jewelry",
+      "category": "accessories",
+      "image": "https://images.pexels.com/photos/1183085/pexels-photo-1183085.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "description": "Bold jewelry pieces that make a statement.",
+      "tags": ["Bold", "Statement", "Contemporary"]
+    }
+  ],
+  "experience": [
+    {
+      "year": "2023-2024",
+      "title": "Fashion Design Student",
+      "organization": "NIFT (National Institute of Fashion Technology)",
+      "description": "Pursuing Bachelor's in Fashion Design with specialization in contemporary couture and sustainable fashion practices."
+    },
+    {
+      "year": "2023",
+      "title": "Design Intern",
+      "organization": "Couture Studio Mumbai",
+      "description": "Assisted senior designers in creating haute couture pieces, learned advanced draping techniques and pattern-making."
+    },
+    {
+      "year": "2022",
+      "title": "Fashion Week Exhibition",
+      "organization": "India Fashion Week",
+      "description": "Showcased student collection 'Urban Ethereal' receiving positive acclaim from industry professionals."
+    }
+  ],
+  "skills": [
+    { "name": "Fashion Illustration", "level": 95 },
+    { "name": "Pattern Making", "level": 88 },
+    { "name": "Draping", "level": 92 },
+    { "name": "Embroidery", "level": 85 },
+    { "name": "Fashion Photography", "level": 78 },
+    { "name": "Sustainable Design", "level": 90 }
+  ]
+}
