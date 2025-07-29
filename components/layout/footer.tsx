@@ -6,7 +6,7 @@ import { FaInstagram, FaLinkedin, FaBehance, FaGithub } from 'react-icons/fa'
 const socialLinks = [
   { icon: FaInstagram, href: '#', label: 'Instagram' },
   { icon: FaLinkedin, href: '#', label: 'LinkedIn' },
-  { icon: FaBehance, href: '#', label: 'Behance' },
+  { icon: FaBehance, href: 'http://be.net/debolina', label: 'Behance' },
   { icon: FaGithub, href: '#', label: 'GitHub' },
 ]
 
@@ -58,8 +58,8 @@ export function Footer() {
             transition={{ delay: 0.4 }}
             className="text-center text-sm text-muted-foreground"
           >
-            <p>&copy; 2024 Fashion Portfolio. All rights reserved.</p>
-            <p className="mt-1">Designed & Developed with ❤️</p>
+            <p>&copy; 2025 Fashion Portfolio. All rights reserved.</p>
+            {/* <p className="mt-1">Designed & Developed with </p> */}
           </motion.div>
         </div>
       </div>

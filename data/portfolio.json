@@ -1,73 +1,251 @@
 {
+  
   "projects": [
     {
       "id": 1,
       "title": "Ethereal Couture Collection",
-      "category": "couture",
-      "image": "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "category": "men's wear",
       "description": "A high-fashion collection inspired by celestial movements and organic forms.",
-      "tags": ["Hand-embroidered", "Silk", "Contemporary"]
+      "tags": ["Hand-embroidered", "Silk", "Contemporary"],
+      "moodBoard": {
+        "text": "A palette of midnight blues and shimmering silvers evoking cosmic elegance.",
+        "images": [
+          "/photos/img2.jpg",
+          "/photos/img6.jpg",
+          "/photos/img3.jpg",
+          "/photos/img4.jpg",
+          "/photos/img5.jpg"
+        ]
+      },
+      "inspiration": "Inspired by the phases of the moon and the fluidity of stardust."
     },
     {
       "id": 2,
       "title": "Urban Nomad Series",
-      "category": "streetwear",
-      "image": "https://images.pexels.com/photos/1813947/pexels-photo-1813947.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "category": "women's wear",
       "description": "Street-ready designs that blend comfort with cutting-edge aesthetics.",
-      "tags": ["Sustainable", "Unisex", "Urban"]
+      "tags": ["Sustainable", "Unisex", "Urban"],
+      "moodBoard": {
+        "text": "Graffiti textures, concrete tones, and modular silhouettes.",
+        "images": [
+          "/photos/img6.jpg",
+          "/photos/img8.jpg",
+          "/photos/img9.jpg",
+          "/photos/img10.jpg",
+          "/photos/img11.jpg"
+        ]
+      },
+      "inspiration": "Inspired by city wanderers and the rhythm of urban life."
     },
     {
       "id": 3,
       "title": "Artisan Accessories",
-      "category": "accessories",
-      "image": "https://images.pexels.com/photos/1183085/pexels-photo-1183085.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "category": "women's wear",
       "description": "Handcrafted accessories that complement contemporary fashion.",
-      "tags": ["Handmade", "Leather", "Minimalist"]
+      "tags": ["Handmade", "Leather", "Minimalist"],
+      "moodBoard": {
+        "text": "Earthy tones, raw textures, and artisanal craftsmanship.",
+        "images": [
+        "/photos/img39.jpg",
+          "/photos/img12.jpg",
+          "/photos/img13.jpg",
+          "/photos/img14.jpg",
+          "/photos/img15.jpg"
+        ]
+      },
+      "inspiration": "Inspired by traditional leatherwork and modern minimalism."
     },
     {
       "id": 4,
       "title": "Neo-Traditional Fusion",
-      "category": "couture",
-      "image": "https://images.pexels.com/photos/1536619/pexels-photo-1536619.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "category": "women's wear",
       "description": "Modern interpretation of traditional Indian textiles and silhouettes.",
-      "tags": ["Traditional", "Modern", "Cultural"]
+      "tags": ["Traditional", "Modern", "Cultural"],
+      "moodBoard": {
+        "text": "Rich fabrics, heritage motifs, and bold contrasts.",
+        "images": [
+         "/photos/img41.jpg",
+        "/photos/img16.jpg",
+          "/photos/img17.jpg",
+          "/photos/img18.jpg",
+          "/photos/img19.jpg"
+        ]
+      },
+      "inspiration": "Inspired by the fusion of old-world charm and new-age tailoring."
     },
     {
       "id": 5,
       "title": "Minimalist Streetwear",
-      "category": "streetwear",
-      "image": "https://images.pexels.com/photos/1813947/pexels-photo-1813947.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "category": "women's wear",
       "description": "Clean lines and understated elegance for everyday wear.",
-      "tags": ["Minimalist", "Comfort", "Versatile"]
+      "tags": ["Minimalist", "Comfort", "Versatile"],
+      "moodBoard": {
+        "text": "Neutral tones, relaxed fits, and subtle textures.",
+        "images": [
+          "/photos/img42.jpg",
+          "/photos/img20.jpg",
+          "/photos/img21.jpg",
+          "/photos/img22.jpg",
+          "/photos/img23.jpg"
+        ]
+      },
+      "inspiration": "Inspired by Scandinavian design and urban simplicity."
     },
     {
       "id": 6,
       "title": "Statement Jewelry",
-      "category": "accessories",
-      "image": "https://images.pexels.com/photos/1183085/pexels-photo-1183085.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "category": "women's wear",
       "description": "Bold jewelry pieces that make a statement.",
-      "tags": ["Bold", "Statement", "Contemporary"]
+      "tags": ["Bold", "Statement", "Contemporary"],
+      "moodBoard": {
+        "text": "Geometric shapes, metallic finishes, and dramatic silhouettes.",
+        "images": [
+          "/photos/img43.jpg",
+          "/photos/img24.jpg",
+          "/photos/img25.jpg",
+          "/photos/img26.jpg",
+          "/photos/img27.jpg"
+        ]
+      },
+      "inspiration": "Inspired by architecture and expressive art forms."
+    },
+    {
+      "id": 7,
+      "title": "Evening Gown",
+      "category": "women's wear",
+      "description": "A glamorous evening gown featuring intricate embroidery and a timeless silhouette.",
+      "tags": ["Luxury", "Evening", "Embroidered"],
+      "moodBoard": {
+        "text": "Velvet textures, gold accents, and candlelit elegance.",
+        "images": [
+         "/photos/img45.jpg",
+          "/photos/img28.jpg",
+          "/photos/img29.jpg",
+          "/photos/img30.jpg",
+          "/photos/img31.jpg"
+        ]
+      },
+      "inspiration": "Inspired by vintage Hollywood and royal couture."
+    },
+    {
+      "id": 8,
+      "title": "Traditional Silk Saree",
+      "category": "women's wear",
+      "description": "A handwoven silk saree that celebrates traditional Indian craftsmanship.",
+      "tags": ["Traditional", "Handwoven", "Ethnic"],
+      "moodBoard": {
+        "text": "Temple architecture, festive colors, and intricate weaves.",
+        "images": [
+          "/photos/img44.jpg",
+          "/photos/img32.jpg",
+          "/photos/img33.jpg",
+          "/photos/img34.jpg",
+          "/photos/img35.jpg"
+        ]
+      },
+      "inspiration": "Inspired by South Indian heritage and ceremonial attire."
+    },
+    {
+      "id": 9,
+      "title": "Cocktail Dress",
+      "category": "women's wear",
+      "description": "An elegant cocktail dress for evening occasions with minimal yet bold design elements.",
+      "tags": ["Party", "Elegant", "Minimalist"],
+      "moodBoard": {
+        "text": "Monochrome palettes, sleek silhouettes, and ambient lighting.",
+        "images": [
+          "/photos/img4.jpg",
+          "/photos/img36.jpg",
+          "/photos/img37.jpg",
+          "/photos/img38.jpg",
+          "/photos/img39.jpg"
+        ]
+      },
+      "inspiration": "Inspired by modern nightlife and minimalist glam."
+    },
+    {
+      "id": 10,
+      "title": "Casual Maxi Dress",
+      "category": "women's wear",
+      "description": "A flowing maxi dress for a relaxed yet chic daytime look.",
+      "tags": ["Maxi", "Daywear", "Casual"],
+      "moodBoard": {
+        "text": "Sunlight, breezy fabrics, and floral accents.",
+        "images": [
+           "/photos/img42.jpg",
+          "/photos/img20.jpg",
+          "/photos/img21.jpg",
+          "/photos/img22.jpg",
+          "/photos/img23.jpg"
+        ]
+      },
+      "inspiration": "Inspired by summer strolls and effortless femininity."
+    },
+    {
+      "id": 11,
+      "title": "Festive Lehenga",
+      "category": "women's wear",
+      "description": "A vibrant lehenga crafted with intricate mirror work for festive occasions.",
+      "tags": ["Festive", "Traditional", "Embroidered"],
+      "moodBoard": {
+        "text": "Fireworks, mirror reflections, and celebratory hues.",
+        "images": [
+          "/photos/img41.jpg",
+        "/photos/img16.jpg",
+          "/photos/img17.jpg",
+          "/photos/img18.jpg",
+          "/photos/img19.jpg"
+        ]
+      },
+      "inspiration": "Inspired by Indian festivals and folk artistry."
+    },
+    {
+      "id": 12,
+      "title": "Boho Chic Tunic",
+      "category": "women's wear",
+      "description": "A stylish boho tunic blending artistic prints with a relaxed fit.",
+      "tags": ["Bohemian", "Artistic", "Casual"],
+      "moodBoard": {
+        "text": "Tribal patterns, earthy tones, and free-spirited vibes.",
+        "images": [
+           "/photos/img43.jpg",
+          "/photos/img24.jpg",
+          "/photos/img25.jpg",
+          "/photos/img26.jpg",
+          "/photos/img27.jpg"
+        ]
+      },
+      "inspiration": "Inspired by global nomads and artistic expression."
     }
   ],
+
   "experience": [
     {
-      "year": "2023-2024",
+      "year": "2022-2026",
       "title": "Fashion Design Student",
       "organization": "NIFT (National Institute of Fashion Technology)",
       "description": "Pursuing Bachelor's in Fashion Design with specialization in contemporary couture and sustainable fashion practices."
     },
     {
-      "year": "2023",
-      "title": "Design Intern",
-      "organization": "Couture Studio Mumbai",
-      "description": "Assisted senior designers in creating haute couture pieces, learned advanced draping techniques and pattern-making."
+      "year": "2024-Present",
+      "title": "President : Ethics and Social Service Club",
+      "organization": "NIFT Bhubaneswar",
+      "description": "To make a positive impact through Community Engagement and volunteer opportunities. "
+
     },
     {
-      "year": "2022",
-      "title": "Fashion Week Exhibition",
-      "organization": "India Fashion Week",
-      "description": "Showcased student collection 'Urban Ethereal' receiving positive acclaim from industry professionals."
+      "year": "2021-2022",
+      "title": "Designershala",
+      "organization": "Student Ambassador",
+      "description": "Interned with Designershala, built and managed their content, which led to great traffic and engagement. Also, drove their social media followers count to 25K by writing blogs, articles, reviews, and testimonials for aspiring design enthusiasts."
+    },
+    {
+      "year": "2019-2020",
+      "title": "Anushna by Nandini",
+      "organization": "Junior Designer",
+      "description": "Worked with Anushna, a small business brand based in Kolkata. Worked as an Illustrator and Stylist-designed and developed prints, motifs, and moodboards for women's apparel. Tried hands-on semi-natural Shibori dyeing techniques & Block printing."
     }
+    
   ],
   "skills": [
     { "name": "Fashion Illustration", "level": 95 },
@@ -76,5 +254,5 @@
     { "name": "Embroidery", "level": 85 },
     { "name": "Fashion Photography", "level": 78 },
     { "name": "Sustainable Design", "level": 90 }
-  ]
+  ]      
 }

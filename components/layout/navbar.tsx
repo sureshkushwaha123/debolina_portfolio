@@ -52,9 +52,9 @@ export function Navbar() {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.2 }}
           >
-            <Link href="/" className="text-2xl font-bold text-foreground">
-              Portfolio
-            </Link>
+            {/* <Link href="/" className="text-2xl font-bold text-foreground">
+              Debolina Burman
+            </Link> */}
           </motion.div>
 
           {/* Desktop Navigation */}
@@ -71,12 +71,12 @@ export function Navbar() {
                 {item.name}
               </motion.button>
             ))}
-            <ThemeToggle />
+           
           </div>
 
           {/* Mobile Menu Button */}
           <div className="md:hidden flex items-center space-x-2">
-            <ThemeToggle />
+            
             <Button
               variant="ghost"
               size="icon"
