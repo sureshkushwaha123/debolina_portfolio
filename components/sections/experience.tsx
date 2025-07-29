@@ -5,7 +5,6 @@ import { Card, CardContent } from '@/components/ui/card'
 import { GraduationCap, Briefcase, Award } from 'lucide-react'
 import portfolioData from '@/data/portfolio.json'
 
-
 const getIcon = (title: string) => {
   if (title.toLowerCase().includes('student') || title.toLowerCase().includes('nift')) {
     return GraduationCap
@@ -74,18 +73,11 @@ export function ExperienceSection() {
                   <div className={`w-full md:w-5/12 mt-12 md:mt-0 ${isEven ? 'md:mr-auto md:pr-8' : 'md:ml-auto md:pl-8'}`}>
                     <Card className="bg-card/60 backdrop-blur-md border border-border shadow-xl hover:shadow-2xl transition-all duration-300">
                       <CardContent className="p-6 space-y-4">
-                        {/* Year Badge & Thumbnail */}
+                        {/* Year Badge */}
                         <div className="flex items-center justify-between">
                           <Badge className="bg-primary/10 text-primary hover:bg-primary/20">
                             {item.year}
                           </Badge>
-                          {item.image && (
-                            <img
-                              src={item.image}
-                              alt={item.title}
-                              className="w-12 h-12 object-cover rounded-full border border-border"
-                            />
-                          )}
                         </div>
 
                         {/* Title & Organization */}
