@@ -88,17 +88,6 @@ export function ExperienceSection() {
 
                         {/* Description */}
                         <p className="text-muted-foreground leading-relaxed">{item.description}</p>
-
-                        {/* Skills/Tags */}
-                        {item.skills && (
-                          <div className="flex flex-wrap gap-2 pt-2">
-                            {item.skills.map((skill: string, i: number) => (
-                              <Badge key={i} className="bg-muted/20 text-muted-foreground hover:bg-muted/30">
-                                {skill}
-                              </Badge>
-                            ))}
-                          </div>
-                        )}
                       </CardContent>
                     </Card>
                   </div>
